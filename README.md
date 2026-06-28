@@ -12,3 +12,12 @@ It is missing some crucial features which i will add once I have done my one sud
 once you have added a event you can view it anytime you want by running the code and selecting option 2(VIEW EVENTS)
 **note- You might not be able to edit or delete any program in this version but in upcoming version this 
          feature will be available. Please compromise for a while**
+
+
+You checkout the program by clicking the link below 
+(IF LINK DOES NOT WORK THEN COPY PASTE IT IN YOUR BROWSER)
+
+https://pypi.org/project/opportunity-list/ 
+
+In future updates this will become website and make not only your list overall a website where anyone can add a event and you can see everyone events(only events will be shown not persons info [also these updates will take some time.]) 
+Thank you for your patience
